@@ -17,10 +17,3 @@ This is a simple Android app for taking and managing notes. It allows users to l
   
 - Functionality to delete notes.(using long click on a note)
 
-
-
-## Installation
-
-
-download apk files both the apk and json file to install app they are in noteappapk folder
-folder here- (https://github.com/PratyushYadav/NotesAppPratyush/tree/master/noteappapk)
